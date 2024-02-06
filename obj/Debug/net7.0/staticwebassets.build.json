@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "C7bdJU3gtvUXp1kA929tUHi7Y7lsXAXT4kzu7OqDi5g=",
+  "Hash": "FfnLFiakdBoyRPycZkZqqeDazgNC8IXQBhpQZ/StaB8=",
   "Source": "BlogCore",
   "BasePath": "_content/BlogCore",
   "Mode": "Default",
@@ -148,6 +148,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\imagenes\\articulos\\81aa53ec-7343-4247-b52b-b4a48cf83f97.jpg"
+    },
+    {
+      "Identity": "C:\\CURSOS_APIS\\cursoMMaster2\\CrudNet7MVC\\CrudNet7MVC\\Nueva carpeta\\BlogCore\\BlogCore\\wwwroot\\imagenes\\articulos\\b529ea8b-1e46-47cf-9ed0-25bf9431723a.jpg",
+      "SourceId": "BlogCore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\CURSOS_APIS\\cursoMMaster2\\CrudNet7MVC\\CrudNet7MVC\\Nueva carpeta\\BlogCore\\BlogCore\\wwwroot\\",
+      "BasePath": "_content/BlogCore",
+      "RelativePath": "imagenes/articulos/b529ea8b-1e46-47cf-9ed0-25bf9431723a.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagenes\\articulos\\b529ea8b-1e46-47cf-9ed0-25bf9431723a.jpg"
     },
     {
       "Identity": "C:\\CURSOS_APIS\\cursoMMaster2\\CrudNet7MVC\\CrudNet7MVC\\Nueva carpeta\\BlogCore\\BlogCore\\wwwroot\\imagenes\\articulos\\dac49500-8910-40c2-bb64-ae12b15dfc3d.jpg",
